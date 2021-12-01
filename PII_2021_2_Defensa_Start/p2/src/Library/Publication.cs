@@ -2,6 +2,7 @@ using System;
 using System.Text;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Collections;
 
 namespace Ucu.Poo.Defense
 {
@@ -33,5 +34,18 @@ namespace Ucu.Poo.Defense
         {
             this.items.Remove(item);
         }
+
+        public string AsText()
+        {
+            ArrayList result = new ArrayList(); 
+            result.Add($"Fecha: {this.EndDate}\n");
+            foreach (PublicationItem item in items)
+            {
+                result.Add($"{item.Quantity} de {item.Material} a {item.Price}\n");
+            }
+
+            return result.ToString();
+        }
+
     }
 }

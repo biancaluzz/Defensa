@@ -1,0 +1,6 @@
+c:\Users\bianc\OneDrive\Escritorio\Defensa\PII_2021_2_Defensa_Start\p2\test\LibraryTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+c:\Users\bianc\OneDrive\Escritorio\Defensa\PII_2021_2_Defensa_Start\p2\test\LibraryTests\obj\Debug\net5.0\LibraryTests.csproj.AssemblyReference.cache
+c:\Users\bianc\OneDrive\Escritorio\Defensa\PII_2021_2_Defensa_Start\p2\test\LibraryTests\obj\Debug\net5.0\LibraryTests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bianc\OneDrive\Escritorio\Defensa\PII_2021_2_Defensa_Start\p2\test\LibraryTests\obj\Debug\net5.0\LibraryTests.AssemblyInfoInputs.cache
+c:\Users\bianc\OneDrive\Escritorio\Defensa\PII_2021_2_Defensa_Start\p2\test\LibraryTests\obj\Debug\net5.0\LibraryTests.AssemblyInfo.cs
+c:\Users\bianc\OneDrive\Escritorio\Defensa\PII_2021_2_Defensa_Start\p2\test\LibraryTests\obj\Debug\net5.0\LibraryTests.csproj.CoreCompileInputs.cache
