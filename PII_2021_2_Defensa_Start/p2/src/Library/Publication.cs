@@ -37,7 +37,7 @@ namespace Ucu.Poo.Defense
 
         public string AsText()
         {
-            ArrayList result = new ArrayList(); 
+            List<string> result = new List<string>(); 
             result.Add($"Fecha: {this.EndDate}\n");
             foreach (PublicationItem item in items)
             {
