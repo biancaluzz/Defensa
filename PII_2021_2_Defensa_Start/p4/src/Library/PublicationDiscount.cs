@@ -20,7 +20,7 @@ namespace Ucu.Poo.Defense
 
         public PublicationDiscount(int amount)
         {
-            this.SubTotal = amount;
+            this.SubTotal = - amount;
         }
     }
 }
