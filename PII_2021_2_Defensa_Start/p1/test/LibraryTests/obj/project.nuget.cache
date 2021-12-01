@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bAQvmWnw1958mTmUqPl5Ubw1V5eRDLCXaB6haNKnsdGeaKOoIekn/zbhQDQ/E1yo6sX7pJWKKvzdFFILAGK7Sw==",
+  "dgSpecHash": "p4p0gficbjgmV+5xlgElXIloolGOa0CG11/8wJUp4b8k/jFPb2kTE4R83DmwoEDIlIwYk4j6caTXtM+sUImccg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\bianc\\OneDrive\\Escritorio\\PII_2021_2_Defensa_Start\\p1\\test\\LibraryTests\\LibraryTests.csproj",
+  "projectFilePath": "c:\\Users\\bianc\\OneDrive\\Escritorio\\Defensa\\PII_2021_2_Defensa_Start\\p1\\test\\LibraryTests\\LibraryTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bianc\\.nuget\\packages\\coverlet.msbuild\\3.1.0\\coverlet.msbuild.3.1.0.nupkg.sha512",
     "C:\\Users\\bianc\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

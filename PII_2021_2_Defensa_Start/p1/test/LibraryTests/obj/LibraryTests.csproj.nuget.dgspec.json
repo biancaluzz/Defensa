@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bianc\\OneDrive\\Escritorio\\PII_2021_2_Defensa_Start\\p1\\test\\LibraryTests\\LibraryTests.csproj": {}
+    "c:\\Users\\bianc\\OneDrive\\Escritorio\\Defensa\\PII_2021_2_Defensa_Start\\p1\\test\\LibraryTests\\LibraryTests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bianc\\OneDrive\\Escritorio\\PII_2021_2_Defensa_Start\\p1\\src\\Library\\Library.csproj": {
+    "c:\\Users\\bianc\\OneDrive\\Escritorio\\Defensa\\PII_2021_2_Defensa_Start\\p1\\src\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bianc\\OneDrive\\Escritorio\\PII_2021_2_Defensa_Start\\p1\\src\\Library\\Library.csproj",
+        "projectUniqueName": "c:\\Users\\bianc\\OneDrive\\Escritorio\\Defensa\\PII_2021_2_Defensa_Start\\p1\\src\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "c:\\Users\\bianc\\OneDrive\\Escritorio\\PII_2021_2_Defensa_Start\\p1\\src\\Library\\Library.csproj",
+        "projectPath": "c:\\Users\\bianc\\OneDrive\\Escritorio\\Defensa\\PII_2021_2_Defensa_Start\\p1\\src\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\bianc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bianc\\OneDrive\\Escritorio\\PII_2021_2_Defensa_Start\\p1\\src\\Library\\obj\\",
+        "outputPath": "c:\\Users\\bianc\\OneDrive\\Escritorio\\Defensa\\PII_2021_2_Defensa_Start\\p1\\src\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bianc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "c:\\Users\\bianc\\OneDrive\\Escritorio\\PII_2021_2_Defensa_Start\\p1\\test\\LibraryTests\\LibraryTests.csproj": {
+    "c:\\Users\\bianc\\OneDrive\\Escritorio\\Defensa\\PII_2021_2_Defensa_Start\\p1\\test\\LibraryTests\\LibraryTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bianc\\OneDrive\\Escritorio\\PII_2021_2_Defensa_Start\\p1\\test\\LibraryTests\\LibraryTests.csproj",
+        "projectUniqueName": "c:\\Users\\bianc\\OneDrive\\Escritorio\\Defensa\\PII_2021_2_Defensa_Start\\p1\\test\\LibraryTests\\LibraryTests.csproj",
         "projectName": "LibraryTests",
-        "projectPath": "c:\\Users\\bianc\\OneDrive\\Escritorio\\PII_2021_2_Defensa_Start\\p1\\test\\LibraryTests\\LibraryTests.csproj",
+        "projectPath": "c:\\Users\\bianc\\OneDrive\\Escritorio\\Defensa\\PII_2021_2_Defensa_Start\\p1\\test\\LibraryTests\\LibraryTests.csproj",
         "packagesPath": "C:\\Users\\bianc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bianc\\OneDrive\\Escritorio\\PII_2021_2_Defensa_Start\\p1\\test\\LibraryTests\\obj\\",
+        "outputPath": "c:\\Users\\bianc\\OneDrive\\Escritorio\\Defensa\\PII_2021_2_Defensa_Start\\p1\\test\\LibraryTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bianc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\bianc\\OneDrive\\Escritorio\\PII_2021_2_Defensa_Start\\p1\\src\\Library\\Library.csproj": {
-                "projectPath": "c:\\Users\\bianc\\OneDrive\\Escritorio\\PII_2021_2_Defensa_Start\\p1\\src\\Library\\Library.csproj"
+              "c:\\Users\\bianc\\OneDrive\\Escritorio\\Defensa\\PII_2021_2_Defensa_Start\\p1\\src\\Library\\Library.csproj": {
+                "projectPath": "c:\\Users\\bianc\\OneDrive\\Escritorio\\Defensa\\PII_2021_2_Defensa_Start\\p1\\src\\Library\\Library.csproj"
               }
             }
           }

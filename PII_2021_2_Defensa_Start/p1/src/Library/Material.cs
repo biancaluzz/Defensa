@@ -11,5 +11,17 @@ namespace Ucu.Poo.Defense
             this.Name = name;
             this.Type = type;
         }
+
+        public string IsDangerous(MaterialType type)
+        {
+            if (type.IsDangerous == false)
+            {
+                return Type.IsDangerous = nonDangerousType;
+            }
+            else
+            {
+                return Type.IsDangerous = dangerousType;
+            }
+        }
     }
 }
