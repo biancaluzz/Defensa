@@ -2,6 +2,8 @@ namespace Ucu.Poo.Defense
 {
     public class Material
     {
+        MaterialType dangerousType;
+        MaterialType nonDangerousType;
         public string Name { get; set; }
 
         public MaterialType Type { get; set; }
@@ -16,11 +18,11 @@ namespace Ucu.Poo.Defense
         {
             if (type.IsDangerous == false)
             {
-                return Type.IsDangerous = nonDangerousType;
+                return type.IsDangerous = nonDangerousType;
             }
             else
             {
-                return Type.IsDangerous = dangerousType;
+                return type.IsDangerous = dangerousType;
             }
         }
     }
